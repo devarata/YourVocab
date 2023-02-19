@@ -1,5 +1,5 @@
 # YourVocab
-YourVocab is a Python-based tool that automates the manual process of creating a personal vocabulary list. With YourVocab, you can easily enter a word into a Tkinter user interface, and the program will web scrape its meaning, synonyms, and sentences, and update an Excel list using the Pandas library. The final output file is uploaded to OneDrive, making it accessible from anywhere. anytime.
+YourVocab is a Python-based tool that automates the manual process of creating a personal vocabulary list. With YourVocab, you can easily enter a word into a Tkinter user interface, and the program will web scrape its meaning, synonyms, and sentences, and update an Excel list using the Pandas library. The final output file is uploaded to OneDrive, making it accessible from anywhere, anytime.
 
 ## Tech Stack
 
