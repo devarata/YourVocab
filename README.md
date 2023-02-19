@@ -12,7 +12,7 @@ YourVocab is a Python-based tool that automates the manual process of creating a
 ## Installation
 
 To install YourVocab, follow these steps:
-- Clone the repository ` .git` to your local machine.
+- Clone the repository `https://github.com/devarata/YourVocab.git` to your local machine.
 - Create a new virtual environment and activate it.
 - Install the required dependencies using pip install -r requirements.txt.
 
